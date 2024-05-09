@@ -1,4 +1,5 @@
 Repositório de Criação de Chatbot Simples no Gemini
+
 Descrição:
 
 Este repositório contém o código fonte para um chatbot simples implementado no Gemini. O chatbot é capaz de realizar conversas básicas com o usuário, respondendo a perguntas simples e fornecendo informações relevantes.
